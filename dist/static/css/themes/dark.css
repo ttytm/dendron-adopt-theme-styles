@@ -27278,18 +27278,6 @@ div.ant-typography-edit-content.ant-typography-rtl {
 	margin: 8px 0 0;
 	padding: 0;
 }
-::-webkit-scrollbar {
-	width: 10px;
-}
-::-webkit-scrollbar-track {
-	background: #303030;
-}
-::-webkit-scrollbar-thumb {
-	background: #888;
-}
-::-webkit-scrollbar-thumb:hover {
-	background: #555;
-}
 /* PrismJS 1.24.1
 https://prismjs.com/download.html#themes=prism-tomorrow&languages=markup+css+clike+javascript */
 /**
