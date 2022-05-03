@@ -1218,7 +1218,6 @@ body {
 		"Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 	font-variant: tabular-nums;
 	line-height: 1.5715;
-	background-color: #303030;
 	font-feature-settings: "tnum";
 }
 [tabindex="-1"]:focus {
@@ -4468,7 +4467,6 @@ a.ant-btn-sm {
 	line-height: 1.5715;
 	list-style: none;
 	font-feature-settings: "tnum";
-	background: #303030;
 }
 .ant-picker-calendar-header {
 	display: flex;
@@ -4486,7 +4484,6 @@ a.ant-btn-sm {
 	margin-left: 8px;
 }
 .ant-picker-calendar .ant-picker-panel {
-	background: #303030;
 	border: 0;
 	border-top: 1px solid #424242;
 	border-radius: 0;
@@ -4523,7 +4520,6 @@ a.ant-btn-sm {
 	display: block;
 	width: 100%;
 	text-align: right;
-	background: #303030;
 	border: 0;
 }
 .ant-picker-calendar-full .ant-picker-panel .ant-picker-body td {
@@ -6325,7 +6321,6 @@ textarea.ant-picker-input > input {
 .ant-picker-panel-container {
 	overflow: hidden;
 	vertical-align: top;
-	background: #303030;
 	border-radius: 4px;
 	box-shadow: 0 3px 6px -4px rgba(0, 0, 0, 0.48),
 		0 6px 16px 0 rgba(0, 0, 0, 0.32), 0 9px 28px 8px rgba(0, 0, 0, 0.2);
@@ -6353,7 +6348,6 @@ textarea.ant-picker-input > input {
 	display: inline-flex;
 	flex-direction: column;
 	text-align: center;
-	background: #303030;
 	border: 1px solid #424242;
 	border-radius: 4px;
 	outline: 0;
@@ -16051,7 +16045,6 @@ _:-ms-fullscreen
 	flex: auto;
 	flex-direction: column;
 	min-height: 0;
-	background: #303030;
 }
 .ant-layout,
 .ant-layout * {
@@ -27338,7 +27331,7 @@ pre[class*="language-"] {
 
 :not(pre) > code[class*="language-"],
 pre[class*="language-"] {
-	background: #2d2d2d;
+	background-color: rgba(10, 10, 10, 0.4);
 }
 
 /* Inline code */
